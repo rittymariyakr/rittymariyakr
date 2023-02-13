@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rittymariyakr&label=Profile%20views&color=0e75b6&style=flat" alt="rittymariya" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
 
-- 💬 Ask me about **C,C++,JAVA,PYTHON**
+- 💬 Ask me about **C,C++,PHP,PYTHON**
 
 - 📫 How to reach me **rittymariyakr@gmail.com**
 
